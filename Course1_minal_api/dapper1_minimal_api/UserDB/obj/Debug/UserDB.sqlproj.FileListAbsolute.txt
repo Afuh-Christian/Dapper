@@ -1,0 +1,6 @@
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\UserDB\bin\Debug\UserDB.dacpac
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\UserDB\bin\Debug\UserDB.dll
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\UserDB\bin\Debug\UserDB.pdb
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\UserDB\obj\Debug\UserDB.dll
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\UserDB\obj\Debug\UserDB.pdb

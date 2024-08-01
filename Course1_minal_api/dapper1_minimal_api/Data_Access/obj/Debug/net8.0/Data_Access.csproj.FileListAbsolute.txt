@@ -1,0 +1,12 @@
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\Data_Access\bin\Debug\net8.0\Data_Access.deps.json
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\Data_Access\bin\Debug\net8.0\Data_Access.dll
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\Data_Access\bin\Debug\net8.0\Data_Access.pdb
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\Data_Access\obj\Debug\net8.0\Data_Access.GeneratedMSBuildEditorConfig.editorconfig
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\Data_Access\obj\Debug\net8.0\Data_Access.AssemblyInfoInputs.cache
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\Data_Access\obj\Debug\net8.0\Data_Access.AssemblyInfo.cs
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\Data_Access\obj\Debug\net8.0\Data_Access.csproj.CoreCompileInputs.cache
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\Data_Access\obj\Debug\net8.0\Data_Access.dll
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\Data_Access\obj\Debug\net8.0\refint\Data_Access.dll
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\Data_Access\obj\Debug\net8.0\Data_Access.pdb
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\Data_Access\obj\Debug\net8.0\ref\Data_Access.dll
+H:\DapperC#\Course1_minal_api\dapper1_minimal_api\Data_Access\obj\Debug\net8.0\Data_Access.csproj.AssemblyReference.cache
